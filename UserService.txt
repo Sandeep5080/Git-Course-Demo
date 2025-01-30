@@ -9,4 +9,3 @@ create ne avathar
 
 
 login and logoutt add .
-git commit -m "changes"
