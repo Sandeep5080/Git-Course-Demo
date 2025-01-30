@@ -6,3 +6,7 @@ add
 new data
 30th jan"
 create ne avathar
+
+
+login and logoutt add .
+git commit -m "changes"
