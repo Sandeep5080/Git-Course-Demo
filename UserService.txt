@@ -8,10 +8,4 @@ new data
 create ne avathar
 
 new data here
-
-changes1
-
-
-
-
-new changes10
+change10
